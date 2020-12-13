@@ -1,0 +1,13 @@
+spring:
+  profiles: demo
+
+url: https://orangehrm-demo-6x.orangehrmlive.com/auth/login
+
+agent:
+  fullName: Kevin Mathews
+  position: Production Manager
+
+  leaveData:
+    leaveType: Annual-US
+    from: 2020-12-22
+    to: 2021-01-01
