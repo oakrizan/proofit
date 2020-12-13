@@ -13,7 +13,7 @@ to 01.01.2021. In case it exists, please cancel it (Leave->My Leave) before runn
 
 
 ## Launching tests
-Execute command in the console:
+Execute command in the same console, where previous 2 export commands were executed:
 
 ```
 ./gradlew test
